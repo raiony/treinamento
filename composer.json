@@ -1,0 +1,11 @@
+{
+    "name": "raiony/treinamento",
+    "description": "Treinamento Net On",
+    "minimum-stability": "dev",
+    "authors": [
+        {
+            "name": "Otávio Fernandes",
+            "email": "felipe@netonsolucoes.com.br"
+        }
+    ]
+}
