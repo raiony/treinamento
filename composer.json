@@ -1,6 +1,7 @@
 {
     "name": "raiony/treinamento",
     "description": "Treinamento Net On",
+    "type": "project",
     "minimum-stability": "dev",
     "authors": [
         {
